@@ -13,7 +13,7 @@ body {
   header::before{
     content: '';
     z-index: -1;
-    background: url('./files/pexels-aleksandar-pasaric-2603464.jpg') center center/cover no-repeat;
+    background: url('./pexels-aleksandar-pasaric-2603464.jpg') center center/cover no-repeat;
     opacity: 0.7;
     width: 100%;
     position:absolute;
